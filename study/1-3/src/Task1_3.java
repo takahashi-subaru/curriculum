@@ -37,7 +37,10 @@ public class Task1_3 {
         String train = town + line;
 
         // ⑦ 変数plus, minus, multiply, remi, train をそれぞれ出力しなさい。
-        System.out.println(plus + multiply + remi + train);
+        System.out.println(plus);
+        System.out.println(multiply);
+        System.out.println(remi);
+        System.out.println(train);
 
     }
 }

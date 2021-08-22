@@ -33,6 +33,7 @@ org.eclipse.egit.ui.DiffHeadlineFont=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|4
 org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|49|HackGen35Nerd;
 org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|49|HackGen35Nerd;
 org.eclipse.jdt.junit.failurePaneFont=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|-128|3|2|1|49|HackGen35Nerd;
+org.eclipse.jdt.ui.ColoredLabels.match_highlight=206,92,0
 org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|49|HackGen35Nerd;
 org.eclipse.jdt.ui.editors.textfont=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|49|HackGen35Nerd;
 org.eclipse.jdt.ui.javadocfont=1|HackGen35Nerd|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|-128|3|2|1|49|HackGen35Nerd;
